@@ -42,11 +42,6 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * Identifying Entities in Healthcare Data to identify the diseases and predict the treatment by using NLP.
 [Github Repository Link](https://github.com/TirthankarPaul/Healthcare.git). 
 
-## Research Achievements10: 
-
-
-
-
 
 ## Research Achievements:  
 
