@@ -37,7 +37,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * **The USA based BoomBikes sharing case study to accelerate the revenue earning:** The analysis will help to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 [Github Repository Link](https://github.com/TirthankarPaul/TPassignment_BS.git). 
 
-* Identifying Entities in Healthcare Data to identify the diseases and predict the treatment by using NLP.
+* **Identifying Entities in Healthcare Data** The analysis is to identify the diseases and predict the treatment from the past medical records by using Natural Language Processing(NLP).
 [Github Repository Link](https://github.com/TirthankarPaul/Healthcare.git). 
 
 ### Professional History 
