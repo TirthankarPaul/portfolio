@@ -8,7 +8,9 @@ Researcher, Data and Image Analyst with **Python** and **MATLAB** Coding skills 
 
 
 
-### Skills:
+
+
+### $\color{cyan}{\text{Skills:}}$
 
 * Machine Learning
 * Deep Learning
