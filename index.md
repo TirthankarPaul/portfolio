@@ -42,6 +42,18 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * Identifying Entities in Healthcare Data to identify the diseases and predict the treatment by using NLP.
 [Github Repository Link](https://github.com/TirthankarPaul/Healthcare.git). 
 
+### Professional History 
+* Doctoral Researcher 
+> Biomimetics and Intelligent System Group (BISG), University of Oulu, Finland.
+* Assistant Professor  
+> Department of Electronics and Communication Engineering, India.
+
+### Grants and Fellowship: 
+
+* High Performance Computing-Europa3(_HPC-Europa3_) grant for a collaboration work in the University of Turin, Italy for nine weeks.
+
+* Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
+
 
 ## Research Achievements in Informatics:  
 
@@ -59,15 +71,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 | International Conferences:     | 04                      |  
 | Scopus Index  Publications:    | 06                      | 
 
-### Grants and Fellowship: 
 
-* High Performance Computing-Europa3(_HPC-Europa3_) grant for a collaboration work in the University of Turin, Italy for nine weeks.
 
-* Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
 
-### Professional History 
-* Doctoral Researcher 
-> Biomimetics and Intelligent System Group (BISG), University of Oulu, Finland.
-* Assistant Professor  
-> Department of Electronics and Communication Engineering, India.
 
