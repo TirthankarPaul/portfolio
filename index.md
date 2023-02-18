@@ -10,6 +10,8 @@ layout: default
 
 Researcher, Data and Image Analyst with Python and MATLAB Coding skills for **_big data_**, **_Image_** and **_text mining_**. 
 
+<center><img src="assets/img/Paul Tirthankar CV.pdf"/></center>
+
 ### Skills:
 
 * Machine Learning
