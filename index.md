@@ -53,21 +53,15 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
 
 
-## Research Achievements in Informatics:  
+## Research Achievements:  
 
-* _**Detection of intra-family coronavirus genome sequences through graphical representation and artificial neural network:**_ CGR representation of SARS-CoV, SARS-CoV2, MERS and Alpha CoV sequences. A combine performance of CGR and ANN to detect the virus sequences. Encoding the genome sequence into an organized, well represented small data. CGR transforms the genome sequence into short even less than 1% of actual size.
-
-* _**Clustering and classification of virus sequence through music communication protocol and wavelet transform :**_ Auditory representation of Influenza, Ebola and Coronavirus sequences are focused. Clustering of auditory sequence helps in prominent classification of the viruses compared to genome sequences. MIDI conversion and DWT based genome signal processing are presented.
- 
- 
-
-#### Publications:
 
 | Publication type               |Number o Publications    | 
 |:-------------------------------|:------------------------|
 | International Articles:        | 02 `(+1 Under Review)`  |  
 | International Conferences:     | 04                      |  
 | Scopus Index  Publications:    | 06                      | 
+| Total                          | 12                      |     
 
 
 
