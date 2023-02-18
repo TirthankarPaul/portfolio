@@ -42,9 +42,11 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
 ### Professional History 
 * Doctoral Researcher 
-> Biomimetics and Intelligent System Group (BISG), University of Oulu, Finland.
+> Biomimetics and Intelligent System Group (BISG), University of Oulu, Finland. 
+> Period: 03.2016 to 08.2022
 * Assistant Professor  
 > Department of Electronics and Communication Engineering, India.
+> Period: 08.2012 to 12.2015
 
 ### Grants and Fellowship: 
 
