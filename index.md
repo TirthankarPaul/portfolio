@@ -2,15 +2,11 @@
 layout: default
 ---
 
-**Important Links**
-
-[Linked In](https://www.linkedin.com/in/tirthankar-paul/).
-[Google Scholar](https://scholar.google.com/citations?user=c5j1DXgAAAAJ&hl=en).
-[ORCiD](https://orcid.org/0000-0002-1115-0843).
+[Click Here](https://github.com/TirthankarPaul/portfolio/blob/1b185c1bef3234eea9d00f8bce1ff8d62538bba4/assets/img/Paul%20Tirthankar%20CV.pdf) to download the CV in PDF format. 
 
 Researcher, Data and Image Analyst with Python and MATLAB Coding skills for **_big data_**, **_Image_** and **_text mining_**. 
 
-<center><img src="assets/img/Paul Tirthankar CV.pdf"/></center>
+
 
 ### Skills:
 
