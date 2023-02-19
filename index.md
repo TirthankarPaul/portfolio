@@ -70,6 +70,12 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * **Advaced Certificate in ML and NLP (2021-22):** By IIIT Bangalore, India and conducted by UpGrad online learning platform.
 * **Doctoral Study (2016 - Present date):** Researcher in Sequence analysis, Information Technology and Electrical Engineering (ITEE) University of Oulu, Finland.
 * **Master in Engineering (08/2010 - 07/2012):** Master of Technology in Digital Electronic & Advanced Communication, Department of Electronics and Communication Engineering, Sikkim Manipal University, India
+
+
+### Contact Details:
+Mobile: +358-469070511
+Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi
+Home Address: Tapiontie 7B 23, 90570 Oulu, Finland. 
   
 
 
