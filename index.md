@@ -73,9 +73,9 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
 
 ### Contact Details:
-Mobile: +358-469070511
-Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi
-Home Address: Tapiontie 7B 23, 90570 Oulu, Finland. 
+* Mobile: +358-469070511.
+* Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi.
+* Home Address: Tapiontie 7B 23, 90570 Oulu, Finland. 
   
 
 
