@@ -55,7 +55,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
 
 
-## Research Achievements:  
+### Research Achievements:  
 
 
 | Publication type               |Number o Publications    | 
@@ -64,6 +64,15 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 | International Articles:        | 02 `(+1 Under Review)`  |  
 | International Conferences:     | 04                      |  
 | Scopus Index  Publications:    | 06                      | 
+
+### Educations: 
+* Machine Learning and Deep Learning Courses (2022): Machine Learning with Python and Deep Learning with Pythonconducted by Aalto University, Finland. 
+* Advaced Certificate in ML and NLP (2021-22): By IIIT Bangalore, India and conducted by UpGrad online learning platform.
+* Doctoral Study (2016 - Present date): Researcher in Sequence analysis, Information Technology and Electrical Engineering (ITEE) University of Oulu, Finland.
+* Master in Engineering (08/2010 - 07/2012) : Master of Technology in Digital Electronic & Advanced Communication, Department of Electronics and Communication Engineering, Sikkim Manipal University, India
+  
+
+
     
 
 
