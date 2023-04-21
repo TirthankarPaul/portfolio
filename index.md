@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Click Here](https://github.com/TirthankarPaul/portfolio/blob/279f45de288e57db53e7d335a2a849361cffdff6/assets/img/Paul%20Tirthankar%20CV.pdf) to download the CV in PDF format.
+[Click Here](https://github.com/TirthankarPaul/portfolio/blob/3b622e9657d1171e0881edb30a8d869e43ee8bc3/assets/img/Paul%20Tirthankar%20CV.pdf) to download the CV in PDF format.
 
 
 Researcher, Data and Image Analyst with **Python** and **MATLAB** Coding skills for **_Big data_**, **_Image_** and **_Text mining_**. 
