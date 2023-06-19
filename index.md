@@ -7,7 +7,7 @@ layout: default
 I am a researcher and data analyst specializing in **Javascript**, **Python** and **Matlab** coding for **big data** and **text mining**. In addition, I have **machine learning**, **deep learning**, and **natural language processing (NLP)** expertise, allowing me to analyze and handle large datasets effec- tively. With strong analytical, problem-solving, and collaborative skills, I have successfully contributed to various **research projects** as a doctoral researcher and have been recognized through **grants**, **fellowships** and **publications**.
 
 
-### Skills:
+### <span style="color:blue">Skills:</span>
 
 * Machine Learning
 * Deep Learning
