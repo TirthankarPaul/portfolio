@@ -9,6 +9,8 @@ I am a researcher and data analyst specializing in **Javascript**, **Python** an
 
 ### <span style="color:green">Skills:</span>
 
+<span style="color:blue">
+
 * Machine Learning
 * Deep Learning
 * Natural Language Processing (NLP)
@@ -17,7 +19,7 @@ I am a researcher and data analyst specializing in **Javascript**, **Python** an
 * MySQL
 * Collaborative work
 * Analytical and problem solving. 
-* Verbal and writing skills
+* Verbal and writing skills</span>
 
 ### <span style="color:green">Computer Language Skills:</span>
 
