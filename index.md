@@ -31,6 +31,9 @@ Researcher, Data and Image Analyst with **Python** and **MATLAB** Coding skills 
 Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
 ## Data Analysis Works:
+* **Autometic Complain Classification through NLP:** This Python script performs complain classification based on customer complaints regarding products/services. The goal is to classify each complaint into one of the following categories: Credit card/Prepaid card, Bank account services, Theft/Dispute reporting, Mortgages/loans, and Others. The script utilizes topic modeling using NMF (Non-Negative Matrix Factorization) to identify patterns and assign categories to the complaints. 
+[Github Repository Link](https://github.com/TirthankarPaul/Complain_Classification.git).
+
 * **Lending analysis for banking and financial data:** The Case study is based on Exploratory Data Analysis (EDA). It is mainly banking and financial understanding to minimise the risk factor of charged off loan in the lending customar. The analysis is to find the parameters which are the driving factor of detecting the defaulters from the past datasets.
 [Github Repository Link](https://github.com/TirthankarPaul/LCCS.git).
 
