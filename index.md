@@ -67,7 +67,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 | International Conferences:     | 04                      |  
 | Scopus Index  Publications:    | 06                      | 
 
-## <span style="color:blue">Educations:</span> 
+### <span style="color:blue">Educations:</span> 
 * **Machine Learning and Deep Learning Courses (2022):** Machine Learning with Python and Deep Learning with Python, conducted by Aalto University, Finland. 
 * **Advaced Certificate in ML and NLP (2021-22):** By IIIT Bangalore, India and conducted by UpGrad online learning platform.
 * **Doctoral Study (2016 - Present date):** Researcher in Sequence analysis, Information Technology and Electrical Engineering (ITEE) University of Oulu, Finland.
