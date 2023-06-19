@@ -10,8 +10,8 @@ I am a researcher and data analyst specializing in **Javascript**, **Python** an
 ### <span style="color:green">Skills:</span>
 
 
-
-<span style="color:blue">* Machine Learning
+<span style="color:blue">
+* Machine Learning
 * Deep Learning
 * Natural Language Processing (NLP)
 * EDA (Exploratory data analysis)
