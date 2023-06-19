@@ -30,16 +30,16 @@ layout: default
 Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
 ## Data Analysis Works:
-* <span style="color:blue">**Autometic Complain Classification through NLP:**</span> This Python script performs complain classification based on customer complaints regarding products/services. The goal is to classify each complaint into one of the following categories: Credit card/Prepaid card, Bank account services, Theft/Dispute reporting, Mortgages/loans, and Others. The script utilizes topic modeling using NMF (Non-Negative Matrix Factorization) to identify patterns and assign categories to the complaints. 
+* **Autometic Complain Classification through NLP:**</span> This Python script performs complain classification based on customer complaints regarding products/services. The goal is to classify each complaint into one of the following categories: Credit card/Prepaid card, Bank account services, Theft/Dispute reporting, Mortgages/loans, and Others. The script utilizes topic modeling using NMF (Non-Negative Matrix Factorization) to identify patterns and assign categories to the complaints. 
 [Github Repository Link](https://github.com/TirthankarPaul/Complain_Classification.git).
 
-* <span style="color:blue">**Lending analysis for banking and financial data:**</span> The Case study is based on Exploratory Data Analysis (EDA). It is mainly banking and financial understanding to minimise the risk factor of charged off loan in the lending customar. The analysis is to find the parameters which are the driving factor of detecting the defaulters from the past datasets.
+* **Lending analysis for banking and financial data:**</span> The Case study is based on Exploratory Data Analysis (EDA). It is mainly banking and financial understanding to minimise the risk factor of charged off loan in the lending customar. The analysis is to find the parameters which are the driving factor of detecting the defaulters from the past datasets.
 [Github Repository Link](https://github.com/TirthankarPaul/LCCS.git).
 
-* <span style="color:blue">**The USA based BoomBikes sharing case study to accelerate the revenue earning:**</span> The analysis will help to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+* **The USA based BoomBikes sharing case study to accelerate the revenue earning:**</span> The analysis will help to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 [Github Repository Link](https://github.com/TirthankarPaul/TPassignment_BS.git). 
 
-* <span style="color:blue">**Identifying Entities in Healthcare Data**</span> The analysis is to identify the diseases and predict the treatment from the past medical records by using Natural Language Processing(NLP).
+* **Identifying Entities in Healthcare Data**</span> The analysis is to identify the diseases and predict the treatment from the past medical records by using Natural Language Processing(NLP).
 [Github Repository Link](https://github.com/TirthankarPaul/Healthcare.git). 
 
 ### Professional History 
