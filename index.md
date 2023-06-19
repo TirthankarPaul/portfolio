@@ -59,7 +59,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
 
 
-### <span style="color:blue">Research Achievements:</span>  
+### <span style="color:purple">Research Achievements:</span>  
 
 
 | Publication type               |Number o Publications    | 
@@ -76,7 +76,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * **Master in Engineering (08/2010 - 07/2012):** Master of Technology in Digital Electronic & Advanced Communication, Department of Electronics and Communication Engineering, Sikkim Manipal University, India
 
 
-### <span style="color:blue">Contact Details:</span>
-* Mobile: +358-469070511.
-* Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi.
-* Home Address: Tapiontie 7B 23, 90570 Oulu, Finland. 
+### Contact Details:
+* <span style="color:green">Mobile: +358-469070511.</span>
+* <span style="color:blue">Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi.</span>
+* <span style="color:orange">Home Address: Tapiontie 7B 23, 90570 Oulu, Finland. </span>
