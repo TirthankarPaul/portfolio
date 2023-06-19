@@ -7,7 +7,7 @@ layout: default
 I am a researcher and data analyst specializing in **Javascript**, **Python** and **Matlab** coding for **big data** and **text mining**. In addition, I have **machine learning**, **deep learning**, and **natural language processing (NLP)** expertise, allowing me to analyze and handle large datasets effec- tively. With strong analytical, problem-solving, and collaborative skills, I have successfully contributed to various **research projects** as a doctoral researcher and have been recognized through **grants**, **fellowships** and **publications**.
 
 
-### <span style="color:blue">Skills:</span>
+### <span style="color:green">Skills:</span>
 
 * Machine Learning
 * Deep Learning
@@ -29,7 +29,7 @@ I am a researcher and data analyst specializing in **Javascript**, **Python** an
 ### <span style="color:green">Library Experiences:</span>   
 Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
-### <span style="color:orange">Data Analysis Works:</span>
+### <span style="color:cyan">Data Analysis Works:</span>
 * **<span style="color:blue">Autometic Complain Classification through NLP:</span>** This Python script performs complain classification based on customer complaints regarding products/services. The goal is to classify each complaint into one of the following categories: Credit card/Prepaid card, Bank account services, Theft/Dispute reporting, Mortgages/loans, and Others. The script utilizes topic modeling using NMF (Non-Negative Matrix Factorization) to identify patterns and assign categories to the complaints. 
 [Github Repository Link](https://github.com/TirthankarPaul/Complain_Classification.git).
 
