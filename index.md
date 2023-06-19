@@ -57,7 +57,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
 
 
-## <span style="color:blue">Research Achievements:</span>  
+### <span style="color:blue">Research Achievements:</span>  
 
 
 | Publication type               |Number o Publications    | 
