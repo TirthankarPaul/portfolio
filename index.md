@@ -19,17 +19,17 @@ I am a researcher and data analyst specializing in **Javascript**, **Python** an
 * Analytical and problem solving. 
 * Verbal and writing skills
 
-### Computer Language Skills:
+### <span style="color:blue">Computer Language Skills:</span>
 
 * Python                                       
 * Matlab
 * Javascript                                   
 * C.
 
-### Library Experiences:   
+### <span style="color:blue">Library Experiences:</span>   
 Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
-## Data Analysis Works:
+## <span style="color:blue">Data Analysis Works:</span>
 * **Autometic Complain Classification through NLP:** This Python script performs complain classification based on customer complaints regarding products/services. The goal is to classify each complaint into one of the following categories: Credit card/Prepaid card, Bank account services, Theft/Dispute reporting, Mortgages/loans, and Others. The script utilizes topic modeling using NMF (Non-Negative Matrix Factorization) to identify patterns and assign categories to the complaints. 
 [Github Repository Link](https://github.com/TirthankarPaul/Complain_Classification.git).
 
@@ -42,7 +42,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * **Identifying Entities in Healthcare Data** The analysis is to identify the diseases and predict the treatment from the past medical records by using Natural Language Processing(NLP).
 [Github Repository Link](https://github.com/TirthankarPaul/Healthcare.git). 
 
-### Professional History 
+### <span style="color:blue">Professional History</span> 
 * Doctoral Researcher 
 > Biomimetics and Intelligent System Group (BISG), University of Oulu, Finland. 
 > Period: 03.2016 to 08.2022
@@ -50,14 +50,14 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 > Department of Electronics and Communication Engineering, India.
 > Period: 08.2012 to 12.2015
 
-### Grants and Fellowship: 
+### <span style="color:blue">Grants and Fellowship:</span> 
 
 * High Performance Computing-Europa3(_HPC-Europa3_) grant for a collaboration work in the University of Turin, Italy for nine weeks.
 
 * Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
 
 
-## Research Achievements:  
+## <span style="color:blue">Research Achievements:</span>  
 
 
 | Publication type               |Number o Publications    | 
@@ -67,14 +67,14 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 | International Conferences:     | 04                      |  
 | Scopus Index  Publications:    | 06                      | 
 
-## Educations: 
+## <span style="color:blue">Educations:</span> 
 * **Machine Learning and Deep Learning Courses (2022):** Machine Learning with Python and Deep Learning with Python, conducted by Aalto University, Finland. 
 * **Advaced Certificate in ML and NLP (2021-22):** By IIIT Bangalore, India and conducted by UpGrad online learning platform.
 * **Doctoral Study (2016 - Present date):** Researcher in Sequence analysis, Information Technology and Electrical Engineering (ITEE) University of Oulu, Finland.
 * **Master in Engineering (08/2010 - 07/2012):** Master of Technology in Digital Electronic & Advanced Communication, Department of Electronics and Communication Engineering, Sikkim Manipal University, India
 
 
-### Contact Details:
+### <span style="color:blue">Contact Details:</span>
 * Mobile: +358-469070511.
 * Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi.
 * Home Address: Tapiontie 7B 23, 90570 Oulu, Finland. 
