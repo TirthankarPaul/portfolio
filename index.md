@@ -63,7 +63,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 | Publication type               |Number o Publications    | 
 |:-------------------------------|:------------------------|
 | Total Publications             | 13                      | 
-| International Articles:        | 03 `(+1 Under Review)`  |  
+| International Articles:        | 03                      |  
 | International Conferences:     | 04                      |  
 | Scopus Index  Publications:    | 06                      | 
 
