@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Click Here](https://github.com/TirthankarPaul/portfolio/blob/622ae8be271656f449badac8fa962e8d4fd9576f/assets/img/Paul%20Tirthankar%20CV.pdf) to download the CV in PDF format.
+[Click Here](https://github.com/TirthankarPaul/portfolio/blob/622ae8be271656f449badac8fa962e8d4fd9576f/assets/img/Paul%20Tirthankar%20CV.pdf) to download the ###<span style="color:green">CV in PDF:</span> format.
 ### Summary:
 I am a researcher and data analyst specializing in **Javascript**, **Python** and **Matlab** coding for **big data** and **text mining**. In addition, I have **machine learning**, **deep learning**, and **natural language processing (NLP)** expertise, allowing me to analyze and handle large datasets effec- tively. With strong analytical, problem-solving, and collaborative skills, I have successfully contributed to various **research projects** as a doctoral researcher and have been recognized through **grants**, **fellowships** and **publications**.
 
