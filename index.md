@@ -62,7 +62,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 ### <span style="color:purple">Research Achievements:</span>  
 [**<span style="color:blue">Google Scholar Link </span>**](https://scholar.google.com/citations?user=c5j1DXgAAAAJ&hl=en%22%3EGoogle%20Scholar)
 
-[**<span style="color🟦">Scopus Link</span>**](https://www.scopus.com/authid/detail.uri?authorId=57204780717&origin=cto)
+[**<span style="color:orange">Scopus Link</span>**](https://www.scopus.com/authid/detail.uri?authorId=57204780717&origin=cto)
 
 | Publication type               |Number o Publications    | 
 |:-------------------------------|:------------------------|
