@@ -64,7 +64,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
 [**<span style="color:orange">Scopus Link</span>**](https://www.scopus.com/authid/detail.uri?authorId=57204780717&origin=cto)
 
-[**Publication List**](https://github.com/TirthankarPaul/portfolio/blob/62812fb93b7529410e18d005c2025dcf7f6af4b2/assets/img/Publication_TP.pdf)
+[**<span style="color:blue">Publication List</span>**](https://github.com/TirthankarPaul/portfolio/blob/62812fb93b7529410e18d005c2025dcf7f6af4b2/assets/img/Publication_TP.pdf) in PDF.
 
 | Publication type               |Number o Publications    | 
 |:-------------------------------|:------------------------|
