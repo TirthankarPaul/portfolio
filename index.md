@@ -86,7 +86,7 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
 ### <span style="color:purple">_My Hobbies and Passion!_:</span>   
 
-I am a passionate computer programmer with a keen eye for photography and a knack for video editing. My technical skills blend seamlessly with my creative pursuits, allowing me to capture and enhance the world through my lens. When I'm not coding or framing the perfect shot, I indulge in my love for driving, exploring new landscapes and the freedom of the open road. Whether behind a computer, a camera, or the wheel, I'm always driven by a desire to create and innovate.
+I am a passionate computer programmer with a keen eye for photography and a knack for video editing. My technical skills blend seamlessly with my creative pursuits, allowing me to capture and enhance the world through my lens. When I'm not coding or framing the perfect shot, I indulge in my love for driving, exploring new landscapes, and the freedom of the open road. Whether behind a computer, a camera, or the wheel, I'm always driven by a desire to create and innovate.
 
 
 ### <span style="color:#FF6347">Photography and Videography:</span> 
@@ -105,9 +105,8 @@ Thank you for visiting my page!
 
 
 
-
 ### Contact Details:
 * <span style="color:green">Mobile: +358-469070511.</span>
-* <span style="color:black">Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi.</span>
-* <span style="color:blue">[LinkedIn](https://www.linkedin.com/in/tirthankar-paul/)</span>
+* <span style="color:brown">Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi.</span>
+* <span style="color:blue">LinkedIn: https://www.linkedin.com/in/tirthankar-paul/</span>
 * <span style="color:orange">Home Address: Tapiontie 7B 23, 90570 Oulu, Finland. </span>
