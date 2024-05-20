@@ -11,6 +11,7 @@ I am a researcher and data analyst specializing in **Javascript**, **Python** an
 
 
 <span style="color:blue">
+* Gen AI
 * Machine Learning
 * Deep Learning
 * Natural Language Processing (NLP)
