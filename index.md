@@ -81,23 +81,23 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 
 
 
-### <span style="color:purple">_My Hobbies and Passion!_:</span>   
 
-### <span style="color:#FF6347">About Me:</span> 
+
+
+### <span style="color:purple">_My Hobbies and Passion!_:</span>   
 
 I am a passionate computer programmer with a keen eye for photography and a knack for video editing. My technical skills blend seamlessly with my creative pursuits, allowing me to capture and enhance the world through my lens. When I'm not coding or framing the perfect shot, I indulge in my love for driving, exploring new landscapes and the freedom of the open road. Whether behind a computer, a camera, or the wheel, I'm always driven by a desire to create and innovate.
 
 
-
- ### <span style="color:purple">Photography and Videography:</span> 
-I'm deeply passionate about capturing compelling images and creating engaging video content. Check out some of my work here:
+### <span style="color:#FF6347">Photography and Videography:</span> 
+Here is my Photography and Videography:
 - 📺 [YouTube Channel](https://www.youtube.com/channel/UCx6S5Wj-HIq75mbuOn6fdSw)
 - 📘 [Facebook Photography Page](https://www.facebook.com/Tirthankar.Oulu)
 - 📷 [Instagram](https://www.instagram.com/tirtha_lensview/?hl=en)
 
 
- ### <span style="color:purple">🚗 Driving Adventures :</span> 
-I am passionate about driving. My adventures behind the wheel take me from the winding mountain roads of Norway to the bustling streets of Rome and the high-speed Autobahn in Germany. Each journey offers its own unique and breathtaking views, enriching my love for exploring diverse landscapes.
+### <span style="color:#FF6347">🚗 Driving Adventures :</span> 
+I love driving. My adventures behind the wheel take me from the winding mountain roads of Norway to the bustling streets of Rome and the high-speed Autobahn in Germany. Each journey offers its own unique and breathtaking views, enriching my love for exploring diverse landscapes.
 
 
 Thank you for visiting my page!
