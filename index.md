@@ -80,6 +80,32 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * **Master in Engineering (08/2010 - 07/2012):** Master of Technology in Digital Electronic & Advanced Communication, Department of Electronics and Communication Engineering, Sikkim Manipal University, India
 
 
+
+## My Hobbies and Passion!
+
+## About Me
+
+I am a passionate computer programmer with a keen eye for photography and a knack for video editing. My technical skills blend seamlessly with my creative pursuits, allowing me to capture and enhance the world through my lens. When I'm not coding or framing the perfect shot, I indulge in my love for driving, exploring new landscapes and the freedom of the open road. Whether behind a computer, a camera, or the wheel, I'm always driven by a desire to create and innovate.
+
+
+
+### Photography and Videography
+I'm deeply passionate about capturing compelling images and creating engaging video content. Check out some of my work here:
+- 📺 [YouTube Channel](https://www.youtube.com/channel/UCx6S5Wj-HIq75mbuOn6fdSw)
+- 📘 [Facebook Photography Page](https://www.facebook.com/Tirthankar.Oulu)
+- 📷 [Instagram](https://www.instagram.com/tirtha_lensview/?hl=en)
+
+
+### 🚗 Driving Adventures
+I am passionate about driving. My adventures behind the wheel take me from the winding mountain roads of Norway to the bustling streets of Rome and the high-speed Autobahn in Germany. Each journey offers its own unique and breathtaking views, enriching my love for exploring diverse landscapes.
+
+
+Thank you for visiting my page!
+
+
+
+
+
 ### Contact Details:
 * <span style="color:green">Mobile: +358-469070511.</span>
 * <span style="color:blue">Email Id: tirtha.aec09@gmail.com, tirthankar.paul@oulu.fi.</span>
