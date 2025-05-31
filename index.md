@@ -3,12 +3,13 @@ layout: default
 ---
 
 [**<span style="color:blue">Click Here</span>**](https://github.com/TirthankarPaul/portfolio/blob/622ae8be271656f449badac8fa962e8d4fd9576f/assets/img/Paul%20Tirthankar%20CV.pdf) to download the **CV in PDF** format.
-### Summary:
-I am a researcher and data analyst specializing in **Javascript**, **Python** and **Matlab** coding for **big data** and **text mining**. In addition, I have **machine learning**, **deep learning**, and **natural language processing (NLP)** expertise, allowing me to analyze and handle large datasets effec- tively. With strong analytical, problem-solving, and collaborative skills, I have successfully contributed to various **research projects** as a doctoral researcher and have been recognized through **grants**, **fellowships** and **publications**.
 
+### Summary:
+I am a researcher and data analyst specializing in **Javascript**, **Python** and **Matlab** coding for **big data** and **text mining**. In addition, I have **machine learning**, **deep learning**, and **natural language processing (NLP)** expertise, allowing me to analyze and handle large datasets effectively. With strong analytical, problem-solving, and collaborative skills, I have successfully contributed to various **research projects** as a doctoral researcher and have been recognized through **grants**, **fellowships** and **publications**.
+
+I am also the founder of <a href="https://refreshingnorth.com/" target="_blank"><strong>Refreshing North</strong></a>, a Nordic travel experience company based in Rovaniemi, Finnish Lapland.
 
 ### <span style="color:green">Skills:</span>
-
 
 <span style="color:blue">
 * Gen AI
@@ -46,11 +47,18 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 [Github Repository Link](https://github.com/TirthankarPaul/Healthcare.git). 
 
 ### <span style="color:green">Professional History</span> 
-* Doctoral Researcher 
-> Biomimetics and Intelligent System Group (BISG), University of Oulu, Finland. 
+
+* Founder  
+> <a href="https://refreshingnorth.com/" target="_blank">Refreshing North</a>, Rovaniemi, Finland.  
+> Period: 2024 – Present  
+> Focus: Designing and leading thematic Nordic travel experiences in Finnish Lapland and beyond.
+
+* Doctoral Researcher  
+> Biomimetics and Intelligent System Group (BISG), University of Oulu, Finland.  
 > Period: 03.2016 to 08.2022
+
 * Assistant Professor  
-> Department of Electronics and Communication Engineering, India.
+> Department of Electronics and Communication Engineering, India.  
 > Period: 08.2012 to 12.2015
 
 ### <span style="color:green">Grants and Fellowship:</span> 
@@ -58,7 +66,6 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * High Performance Computing-Europa3(_HPC-Europa3_) grant for a collaboration work in the University of Turin, Italy for nine weeks.
 
 * Doctoral Researcher Fellowship, Funded by Infotech-DP Oulu.
-
 
 ### <span style="color:purple">Research Achievements:</span>  
 [**<span style="color:blue">Google Scholar Link </span>**](https://scholar.google.com/citations?user=c5j1DXgAAAAJ&hl=en%22%3EGoogle%20Scholar)
@@ -80,15 +87,9 @@ Pandas, NumPy, Scikit-learn, XGBoost, OpenCV and NLTK.
 * **Doctoral Study (2016 - Present date):** Researcher in Sequence analysis, Information Technology and Electrical Engineering (ITEE) University of Oulu, Finland.
 * **Master in Engineering (08/2010 - 07/2012):** Master of Technology in Digital Electronic & Advanced Communication, Department of Electronics and Communication Engineering, Sikkim Manipal University, India
 
-
-
-
-
-
 ### <span style="color:purple">_My Hobbies and Passion!_:</span>   
 
 I am a passionate computer programmer with a keen eye for photography and a knack for video editing. My technical skills blend seamlessly with my creative pursuits, allowing me to capture and enhance the world through my lens. When I'm not coding or framing the perfect shot, I indulge in my love for driving, exploring new landscapes, and the freedom of the open road. Whether behind a computer, a camera, or the wheel, I'm always driven by a desire to create and innovate.
-
 
 ### <span style="color:#FF6347">Photography and Videography:</span> 
 Here is my Photography and Videography:
@@ -96,15 +97,13 @@ Here is my Photography and Videography:
 - 📘 [Facebook Photography Page](https://www.facebook.com/Tirthankar.Oulu)
 - 📷 [Instagram](https://www.instagram.com/tirtha_lensview/?hl=en)
 
-
 ### <span style="color:#FF6347">🚗 Driving Adventures :</span> 
 I love driving. My adventures behind the wheel take me from the winding mountain roads of Norway to the bustling streets of Rome and the high-speed Autobahn in Germany. Each journey offers its own unique and breathtaking views, enriching my love for exploring diverse landscapes.
 
+### <span style="color:#FF6347">🚀 Entrepreneurial Venture:</span>  
+I’m the founder of <a href="https://refreshingnorth.com/" target="_blank"><strong>Refreshing North</strong></a> — a travel company offering deep, curated Nordic experiences in Finnish Lapland, Sweden, Norway, and Iceland.
 
 Thank you for visiting my page!
-
-
-
 
 ### Contact Details:
 * <span style="color:green">Mobile: +358-469070511.</span>
