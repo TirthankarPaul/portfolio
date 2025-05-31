@@ -1,21 +1,14 @@
-title: <p align="center"> Tirthankar Paul </p>
+title: "Tirthankar Paul"
 logo: /assets/img/logo.png
-description:
+description: |
   <p align="left">
-  
-  <a href="https://www.linkedin.com/in/tirthankar-paul/">LinkedIn</a> |
-  <a href="https://github.com/TirthankarPaul">GitHub</a> |
-  <a href="https://orcid.org/0000-0002-1115-0843">ORCiD</a> |
-  <a href="https://scholar.google.com/citations?user=c5j1DXgAAAAJ&hl=en">Google Scholar</a>
-  
-  <br>   
-  Researcher and Data Analyst with Big Data, Machine learning, Deep Learning & NLP.
-  <br>
-  
-  
-  
-  
-  
+    <a href="https://www.linkedin.com/in/tirthankar-paul/">LinkedIn</a> |
+    <a href="https://github.com/TirthankarPaul">GitHub</a> |
+    <a href="https://orcid.org/0000-0002-1115-0843">ORCiD</a> |
+    <a href="https://scholar.google.com/citations?user=c5j1DXgAAAAJ&hl=en">Google Scholar</a> |
+    <a href="https://refreshingnorth.com/">Founder, Refreshing North</a>
+    <br><br>
+    Researcher and Data Analyst with expertise in Big Data, Machine Learning, Deep Learning, and NLP.
   </p>
 
 theme: jekyll-theme-minimal
